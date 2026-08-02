@@ -7,52 +7,54 @@
 ## Pages
 
 ### Home
-https://immaculate-spaces-e8b2d263.zappy5.app
+https://example.com
 Experience Dallas&#39;s most thorough professional residential cleaning services, led by Shelly. LGBTQ+ friendly, women-owned, and available 24/7 for last-minute bookings. Book your spotless home now.
 
 ### Services
-https://immaculate-spaces-e8b2d263.zappy5.app/services
+https://example.com/services
 From routine touch-ups to deep cleans, our domestic cleaning services deliver unmatched attention to detail. Explore carpet care, flexible scheduling, and 5-star results in Dallas.
 
 ### Reviews
-https://immaculate-spaces-e8b2d263.zappy5.app/reviews
+https://example.com/reviews
 See why Dallas trusts Shelly&#39;s team for professional residential cleaning services. Read real client stories praising our warmth, reliability, and spotless finishes. Your review next?
 
 ### About
-https://immaculate-spaces-e8b2d263.zappy5.app/about
+https://example.com/about
 Discover the women-owned, LGBTQ+ friendly heart behind Dallas&#39;s top domestic cleaning services. Learn how our customer-first ethos and 24/7 availability make a true difference at home.
 
 ### Contact
-https://immaculate-spaces-e8b2d263.zappy5.app/contact
+https://example.com/contact
 Ready for professional carpet cleaning services or a full home refresh? Reach out 24/7 for a warm, no-pressure quote. Dallas&#39;s most attentive cleaning team is standing by for you.
 
 ### Thank You | Immaculate Spaces
-https://immaculate-spaces-e8b2d263.zappy5.app/thank-you
+https://example.com/thank-you
 Immaculate Spaces - Thank You | Immaculate Spaces
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://immaculate-spaces-e8b2d263.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://immaculate-spaces-e8b2d263.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://immaculate-spaces-e8b2d263.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 2148923324
+- Phone (tel): tel:2148923324
+- Address: Dallas, TX, US
 
 ### Contact form
-- URL: https://immaculate-spaces-e8b2d263.zappy5.app/contact
-- Endpoint: https://immaculate-spaces-e8b2d263.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -60,7 +62,7 @@ Information about WCAG compliance and accessibility features.
   - `email` (email, required)
   - `phone` (tel, required)
   - `message` (textarea, required)
-  - `privacy_consent` (checkbox)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
@@ -88,6 +90,6 @@ Home Services / Cleaning
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://immaculate-spaces-e8b2d263.zappy5.app/sitemap.xml
-- Robots: https://immaculate-spaces-e8b2d263.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://immaculate-spaces-e8b2d263.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
