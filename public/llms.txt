@@ -1,0 +1,93 @@
+# Immaculate Spaces — Generative Engine Optimization Map
+
+> Immaculate Spaces is a women-owned, LGBTQ+ friendly house cleaning service based in Dallas, TX, available 24 hours a day. Known for exceptional thoroughness, strong communication, and a customer-first approach, the business is led by Shelly and has earned a perfect 5-star reputation. The brand stands out for its ability to accommodate last-minute bookings, its attention to detail, and its warm, reassuring client experience — making it a trusted choice for both routine and deep cleaning needs.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience Dallas&#39;s most thorough professional residential cleaning services, led by Shelly. LGBTQ+ friendly, women-owned, and available 24/7 for last-minute bookings. Book your spotless home now.
+
+### Services
+https://example.com/services
+From routine touch-ups to deep cleans, our domestic cleaning services deliver unmatched attention to detail. Explore carpet care, flexible scheduling, and 5-star results in Dallas.
+
+### Reviews
+https://example.com/reviews
+See why Dallas trusts Shelly&#39;s team for professional residential cleaning services. Read real client stories praising our warmth, reliability, and spotless finishes. Your review next?
+
+### About
+https://example.com/about
+Discover the women-owned, LGBTQ+ friendly heart behind Dallas&#39;s top domestic cleaning services. Learn how our customer-first ethos and 24/7 availability make a true difference at home.
+
+### Contact
+https://example.com/contact
+Ready for professional carpet cleaning services or a full home refresh? Reach out 24/7 for a warm, no-pressure quote. Dallas&#39;s most attentive cleaning team is standing by for you.
+
+### Thank You | Immaculate Spaces
+https://example.com/thank-you
+Immaculate Spaces - Thank You | Immaculate Spaces
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Immaculate Spaces
+Immaculate Spaces is a women-owned, LGBTQ+ friendly house cleaning service based in Dallas, TX, available 24 hours a day. Known for exceptional thoroughness, strong communication, and a customer-first approach, the business is led by Shelly and has earned a perfect 5-star reputation. The brand stands out for its ability to accommodate last-minute bookings, its attention to detail, and its warm, reassuring client experience — making it a trusted choice for both routine and deep cleaning needs.
+
+## Services/Products
+- House cleaning
+- Deep cleaning
+- Carpet cleaning
+- Next-day/last-minute cleaning
+
+## Target Audience
+- Homeowners and residents in the Dallas area looking for reliable, thorough cleaning services
+- Dallas Homeowners
+- Busy Professionals
+- New Parents
+
+## Industry
+Home Services / Cleaning
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
