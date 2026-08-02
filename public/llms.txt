@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://example.com
+https://immaculate-spaces.zappy5.app
 Experience Dallas&#39;s most thorough professional residential cleaning services, led by Shelly. LGBTQ+ friendly, women-owned, and available 24/7 for last-minute bookings. Book your spotless home now.
 
 ### Services
-https://example.com/services
+https://immaculate-spaces.zappy5.app/services
 From routine touch-ups to deep cleans, our domestic cleaning services deliver unmatched attention to detail. Explore carpet care, flexible scheduling, and 5-star results in Dallas.
 
 ### Reviews
-https://example.com/reviews
+https://immaculate-spaces.zappy5.app/reviews
 See why Dallas trusts Shelly&#39;s team for professional residential cleaning services. Read real client stories praising our warmth, reliability, and spotless finishes. Your review next?
 
 ### About
-https://example.com/about
+https://immaculate-spaces.zappy5.app/about
 Discover the women-owned, LGBTQ+ friendly heart behind Dallas&#39;s top domestic cleaning services. Learn how our customer-first ethos and 24/7 availability make a true difference at home.
 
 ### Contact
-https://example.com/contact
+https://immaculate-spaces.zappy5.app/contact
 Ready for professional carpet cleaning services or a full home refresh? Reach out 24/7 for a warm, no-pressure quote. Dallas&#39;s most attentive cleaning team is standing by for you.
 
 ### Thank You | Immaculate Spaces
-https://example.com/thank-you
+https://immaculate-spaces.zappy5.app/thank-you
 Immaculate Spaces - Thank You | Immaculate Spaces
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://immaculate-spaces.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://immaculate-spaces.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://immaculate-spaces.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -53,8 +53,8 @@ Information about WCAG compliance and accessibility features.
 - Address: Dallas, TX, US
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://immaculate-spaces.zappy5.app/contact
+- Endpoint: https://immaculate-spaces.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Home Services / Cleaning
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://immaculate-spaces.zappy5.app/sitemap.xml
+- Robots: https://immaculate-spaces.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://immaculate-spaces.zappy5.app/llms-full.txt
